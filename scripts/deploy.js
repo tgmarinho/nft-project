@@ -1,5 +1,3 @@
-const path = require('path')
-
 async function main() {
   const MyNFT = await ethers.getContractFactory("MyNFT");
 
@@ -9,8 +7,8 @@ async function main() {
 }
 
 main()
- .then(() => process.exit(0))
- .catch(error => {
-   console.error(error);
-   process.exit(1);
- });
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });

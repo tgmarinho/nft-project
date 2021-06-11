@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/tgmarinho/Developer/nft-project/contracts/MyNFT.sol": {
-      "lastModificationDate": 1622555668225,
-      "contentHash": "a1da8dbb548a09cba959533b5548e8b2",
+      "lastModificationDate": 1623378220152,
+      "contentHash": "7f55c782d173bdc8a1e127a70cc0454c",
       "sourceName": "contracts/MyNFT.sol",
       "solcConfig": {
         "version": "0.7.3",
@@ -36,7 +36,7 @@
         "^0.7.3"
       ],
       "artifacts": [
-        "cryptoDunks"
+        "MyNFT"
       ]
     },
     "/home/tgmarinho/Developer/nft-project/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
